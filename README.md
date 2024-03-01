@@ -6,3 +6,4 @@ The intention is to use these with mpv and yt-dlp. If you have mpv setup to save
 - mpv
 - yt-dlp
 
+I also like to have `save-position-on-quit` in my `mpv.conf` file so that the playlist will continue from where I left off the last time I was watching.
